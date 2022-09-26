@@ -19,7 +19,7 @@ Open for suggestions
 * CSS3
 * JS
 * UX/UI
-* MODX
+* 
 
 #### Software skills
 * Figma;

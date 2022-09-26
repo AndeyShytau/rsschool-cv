@@ -6,7 +6,7 @@
 * Phone: +375 29 357 37 59 (Telegram,Viber,WatsApp)
 * Email: seb7742@yandex.ru
 * GitHub: https://github.com/AndeyShytau
-* Linkedin: [https://www.linkedin.com/in/andrei-shytau-webdesigner] (https://www.linkedin.com/in/andrei-shytau-webdesigner)
+* Linkedin: [https://www.linkedin.com/in/andrei-shytau-webdesigner](https://www.linkedin.com/in/andrei-shytau-webdesigner)
 
 #### About
 A little about me. 

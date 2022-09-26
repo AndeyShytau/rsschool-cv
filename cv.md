@@ -22,10 +22,9 @@ Open for suggestions
 * MODX
 
 #### Software skills
-* Figma;
-* PhotoShop;
-* VS Code;
-* Git
+* Figma
+* PhotoShop
+* VS Code
 
 #### Code Example
 ```

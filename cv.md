@@ -5,7 +5,7 @@
 * Location: Minsk,Belarus
 * Phone: +375 29 357 37 59 (Telegram,Viber,WatsApp)
 * Email: seb7742@yandex.ru
-* GitHub: https://github.com/AndeyShytau
+* GitHub: [https://github.com/AndeyShytau](https://github.com/AndeyShytau)
 * Linkedin: [https://www.linkedin.com/in/andrei-shytau-webdesigner](https://www.linkedin.com/in/andrei-shytau-webdesigner)
 
 #### About
@@ -71,8 +71,8 @@ hide.addEventListener('click',
 ```  
 
 #### Projects
-* Website of the communal unitary subsidiary "Department of Capital Construction of the Frunzensky District of Minsk https://uksfr.by/
-* Website of the company "PC Help" in Minsk https://pch.by/
+* Website of the communal unitary subsidiary "Department of Capital Construction of the Frunzensky District of Minsk [https://uksfr.by/](uksfr.by)
+* Website of the company "PC Help" in Minsk [https://pch.by/](pch.by)
 
 #### Education
 * Russian State Social University branch in Minsk

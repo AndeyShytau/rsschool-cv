@@ -1,2 +1,2 @@
 
-https://AndeyShytau.github.io/rsschool-cv/cv
+https://AndeyShytau.github.io/rsschool-cv/
